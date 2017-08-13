@@ -1,0 +1,17 @@
+{
+  "name": "tmpromise",
+  "version": "1.0.0",
+  "description": "Temp files in a meaningful way",
+  "main": "tmp.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "assert": "^1.4.1"
+  },
+  "author": "Imre Rad",
+  "license": "ISC"
+}
